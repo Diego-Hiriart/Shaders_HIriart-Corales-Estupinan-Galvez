@@ -2,10 +2,10 @@
 Tarea de shaders en el juego de Pool
 
 ## Integrantes
-- Diego Hiriart
-- Luis Corales
-- Daniela Estupiñan
-- Martin Galvez
+- [Diego Hiriart](https://github.com/Diego-Hiriart)
+- [Daniela Estupiñan](https://github.com/Daniela-Estupinan)
+- [Martin Galvez](https://github.com/MGA1398)
+- [Luis Corales](https://github.com/LuisCorales)
 
 ## Implementaciones
 + Se siguió el tutorial del shader para la bola blanca: https://medium.com/@Scriptie/beginner-friendly-shader-graph-tutorial-ff18e2d6f427
